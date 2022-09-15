@@ -1,6 +1,6 @@
 {
   "name": "parcel-optimizer-nohtmlsuffix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Remove .html suffixes from internal links",
   "author": "Philippe Faist",
   "license": "MIT",
